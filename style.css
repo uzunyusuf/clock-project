@@ -2,6 +2,7 @@ html {
   background-image: url(https://images8.alphacoders.com/105/1054256.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position : center;
   font-family: "helvetica neue";
   text-align: center;
   font-size: 10px;
